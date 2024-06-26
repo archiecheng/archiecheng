@@ -20,6 +20,8 @@
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=archiecheng&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
   <img width="49%" src = "https://github-readme-stats.vercel.app/api?username=archiecheng&count_private=true&show_icons=true&theme=tokyonight&line_height=35&hide_border=true">
   <img width="49%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=archiecheng&theme=tokyonight&layout=compact&line_height=25&hide_border=true">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </p>
 
 ## 💻Skills
