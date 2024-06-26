@@ -22,7 +22,7 @@
   <img width="49%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=archiecheng&theme=tokyonight&layout=compact&line_height=25&hide_border=true">
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
-  ![](./profile-3d-contrib/profile-green-animate.svg)
+  ![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
 </p>
 
 ## 💻Skills
