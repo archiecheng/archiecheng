@@ -10,6 +10,15 @@
 - ⚡ Fun fact: Nothing temporarily
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=archiecheng&count_private=true&show_icons=true&theme=ambient_gradient&line_height=20">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=archiecheng&theme=ambient_gradient&layout=compact&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=archiecheng&count_private=true&show_icons=true&theme=tokyonight&line_height=20">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=archiecheng&theme=tokyonight&layout=compact&line_height=27">
 </p>
+
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=archiecheng&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+</p>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=archiecheng&theme=tokyo-night&area=true">
+
+
+
+
