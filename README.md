@@ -1,15 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&pause=1000&color=70A5FD&random=false&width=450&height=100&lines=Hello+I+am+Archie;I+am+a+software+engineer;feel+free+to+get+in+touch🙂">
+</p>
 
-- 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning Java design pattern
-- 👯 I’m looking to collaborate on some open source projects
-- 🤔 I’m looking for help with someone who wants to study programming
-- 💬 Ask me about any questions about programming
-- 📫 How to reach me: Wechat
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Nothing temporarily
-
-## GitHub Stats: 
+## 😏About Me
+  - Chinese Name: Laiyong Cheng
+  - English Name: Archie Cheng
+  - Hometown: Huainan, Anhui Province in China
+  - Education:
+    - University of California, Riverside
+    - Santa Clara University
+  - Hobbies:
+    - 🚶Hiking
+    - 🌉Travelling
+    - 🍚Cooking
+    - ...
+## 📈GitHub Stats
 <p align = "center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=archiecheng&theme=tokyo-night&area=true&hide_border=true">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=archiecheng&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
@@ -17,7 +22,7 @@
   <img width="49%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=archiecheng&theme=tokyonight&layout=compact&line_height=25&hide_border=true">
 </p>
 
-## Skills
+## 💻Skills
   - ### Frontend <br />
     [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,dart,flutter,yarn,jquery,sass,less,md,npm,nuxtjs,babel,bootstrap,nodejs,redux,webpack)](https://skillicons.dev)
   - ### Backend <br />
