@@ -23,7 +23,7 @@
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 </p>
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
+<img src="./profile-3d-contrib/profile-night-rainbow.svg")
 
 ## 💻Skills
   - ### Frontend <br />
