@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&pause=1000&color=70A5FD&random=false&width=450&height=100&lines=Hello+I+am+Archie;I+am+a+software+engineer;feel+free+to+get+in+touch🙂">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&pause=1000&color=70A5FD&random=false&width=450&height=100&lines=Hello+I+am+Archie+🙂;I+am+a+software+engineer;feel+free+to+get+in+touch">
 </p>
 
 ## 😏About Me
