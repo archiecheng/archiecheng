@@ -41,7 +41,7 @@ GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░�
   - ### Backend <br />
     [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,spring,redis,py,django,flask,jenkins,linux,maven,mongodb,elasticsearch)](https://skillicons.dev)
   - ### Development Tools <br />
-    [![My Skills](https://skillicons.dev/icons?i=atom,clion,eclipse,pycharm,visualstudio,vscode)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=atom,clion,eclipse,pycharm,visualstudio,vscode,idea)](https://skillicons.dev)
   - ### Version Control <br />
     [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
   - ### API Test <br />
