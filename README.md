@@ -21,7 +21,16 @@
   <img width="49%" src = "https://github-readme-stats.vercel.app/api?username=archiecheng&count_private=true&show_icons=true&theme=tokyonight&line_height=35&hide_border=true">
   <img width="49%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=archiecheng&theme=tokyonight&layout=compact&line_height=25&hide_border=true">
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+Python           1 hr 20 mins    ███████████░░░░░░░░░░░░░░   44.01 %
+HTML             41 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
+CSS              39 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
+JavaScript       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+```
+
+<!--END_SECTION:waka-->
 </p>
 <img src="./profile-3d-contrib/profile-night-rainbow.svg")
 
