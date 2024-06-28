@@ -15,7 +15,7 @@
     - 🌉Travelling
     - 🍚Cooking
     - ...
-## 📈GitHub Stats
+## 📈Coding Statistics
 <p align = "center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=archiecheng&theme=tokyo-night&area=true&hide_border=true">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=archiecheng&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
