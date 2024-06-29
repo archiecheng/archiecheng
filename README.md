@@ -6,7 +6,7 @@
 ## 😏About Me
   - Chinese Name: Laiyong Cheng
   - English Name: Archie Cheng
-  - Hometown: Huainan, Anhui Province in China
+  - Hometown: China
   - Education:
     - University of California, Riverside
     - Santa Clara University
