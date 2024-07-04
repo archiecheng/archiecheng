@@ -4,8 +4,8 @@
 </p>
 
 ## 😏About Me
-  - Chinese Name: Laiyong Cheng
-  - English Name: Archie Cheng
+  - Name: Laiyong(Archie) Cheng
+  - Gender: Male
   - Hometown: China
   - Education:
     - University of California, Riverside
