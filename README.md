@@ -26,8 +26,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-JSON     13 mins         █████████████████████▒░░░   85.68 %
-Vue.js   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
