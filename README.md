@@ -26,7 +26,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C               32 mins         █████████████████▒░░░░░░░   69.87 %
+Perl            7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+Makefile        6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+Linker Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
