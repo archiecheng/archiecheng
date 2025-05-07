@@ -26,7 +26,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue.js     53 mins         █████████████▓░░░░░░░░░░░   55.20 %
+C          36 mins         █████████▓░░░░░░░░░░░░░░░   38.39 %
+Makefile   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Text       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
