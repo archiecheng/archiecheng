@@ -26,9 +26,7 @@
   <!--START_SECTION:waka-->
 
 ```txt
-C          49 mins         ████████████████████████▓   98.68 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Perl       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
