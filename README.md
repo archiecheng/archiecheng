@@ -36,7 +36,7 @@ Dart         43 mins         ██▒░░░░░░░░░░░░░░
   - ### Frontend <br />
     [![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,dart,flutter,yarn,jquery,sass,less,md,npm,nuxtjs,babel,bootstrap,nodejs,redux,webpack,electron)](https://skillicons.dev)
   - ### Backend <br />
-    [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,spring,redis,py,django,flask,jenkins,linux,maven,mongodb,elasticsearch)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,ruby,spring,redis,py,django,flask,jenkins,linux,maven,mongodb,elasticsearch)](https://skillicons.dev)
   - ### Development Tools <br />
     [![My Skills](https://skillicons.dev/icons?i=atom,clion,eclipse,pycharm,visualstudio,vscode,idea)](https://skillicons.dev)
   - ### Version Control <br />
