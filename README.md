@@ -12,7 +12,6 @@
     - ...
 ## 📈Coding Statistics
 <p align = "center">
-  <img src="https://github.com/archiecheng/archiecheng/blob/output/github-contribution-grid-snake-dark.svg">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg") />
   <!--START_SECTION:waka-->
 
