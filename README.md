@@ -29,7 +29,9 @@
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ruby    49 mins         ██████████████████████▒░░   89.75 %
+ERB     5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
